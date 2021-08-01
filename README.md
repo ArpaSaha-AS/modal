@@ -1,2 +1,2 @@
 # modal
-Great repository names are short and memorable. Need inspiration? How about special-computing-machine? 
+ https://arpasaha-as.github.io/modal/ 
